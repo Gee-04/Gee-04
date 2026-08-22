@@ -1,4 +1,4 @@
-#Hi, I'm Phumelela 👋
+# Hi, I'm Phumelela 👋
 
 Final-year BSc IT student passionate about **Software Engineering, Cloud Computing, and building practical technology solutions**.
 
